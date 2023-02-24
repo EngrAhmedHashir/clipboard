@@ -1,0 +1,9 @@
+.pc{
+    background-image: url("bg-header-desktop.png");
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    background-color: yellow;
+}

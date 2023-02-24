@@ -1,0 +1,100 @@
+/* h1, h2, h3, h4, h5, h6{
+  color: black;
+  font-size: 30px;
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+}
+body{
+  text-align: center;
+
+} */
+.text1
+{
+background-image: url("862917.jpg");
+}
+/* .section1
+{
+  background-image: url("Image/bg-header-desktop.png");
+  background-color: yellow;
+} */
+
+.btn
+/* {
+  background-color: yellow;
+  width: 200px;
+  height: 40px;
+  display: inline-block;
+  border-radius: 30px;
+}
+.green
+{
+  background-color: green;
+}
+.Main
+{
+  position: absolute;
+  top: 25%;
+  left: 25%;
+}
+.Header
+{
+  color: grey;
+  text-align: left;
+  max-width: 600px;
+  height: 200px;
+  padding: 20px;
+  background-color:white;
+
+
+}
+.Bottom
+{
+  height: 250px;
+  display: flex;
+}
+.Expense
+{
+background-color: 	#008B8B;
+color: white;
+display: flex;
+flex-direction: column;
+padding: 20px;
+width: 300px;
+height: 350px;
+
+}
+.Why
+{
+  background-color: #6495ED;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  width: 300px;
+  height: 350px;
+
+
+}
+.Why p
+{
+  font-size: 12px;
+}
+
+.A
+{
+  font-size: 40px;
+  font-weight: bold;
+
+}
+@media(max-width:700px)
+{
+  .Bottom
+  {
+    display: block;
+  }
+.Header
+  {
+    width: 300px;
+    height: auto;
+  }
+} */
